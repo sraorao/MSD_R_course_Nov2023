@@ -1,5 +1,5 @@
 ###R for biologists
-##Irina & Rao, 10/10/2023
+##Irina & Rao, 22/11/2023
 
 # https://www.nature.com/articles/sdata20179
 # Article title: Systematic high-content genome-wide RNAi screens of endothelial 
@@ -60,8 +60,6 @@ migmorph$reagent_id
 
 # Q: Subset migmorph for only the 2nd and 3rd rows
 # hint: fill in the blanks as needed: migmorph[ , ]
-migmorph[2:3, ]
-migmorph[c(2, 3), ]
 
 
 # Q: Examine the ToothGrowth dataset that is preloaded in your R session
